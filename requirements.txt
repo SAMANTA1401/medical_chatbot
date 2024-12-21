@@ -1,0 +1,12 @@
+ctransformers==0.2.5
+# pip install -U sentence-transformers
+sentence-transformers
+langchain
+flask
+python-dotenv
+ipykernel
+pypdf
+langchain-pinecone
+pinecone
+langchain-community
+
