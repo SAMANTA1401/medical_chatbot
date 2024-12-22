@@ -9,4 +9,5 @@ pypdf
 langchain-pinecone
 pinecone
 langchain-community
+-e .
 
